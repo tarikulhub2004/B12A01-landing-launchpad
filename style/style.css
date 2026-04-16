@@ -181,3 +181,31 @@
     padding-top: 100px;
     padding-bottom: 100px;
  }
+ /* footer */
+ footer{
+   text-align: center;
+   background-color: #FFFFFF;
+   padding-top: 10px;
+ }
+ .footer-logo{
+   font-weight: 900;
+   font-size: 100px;
+   color: #4E47FF;
+ }
+ .foot-a{
+   text-decoration: none;
+   color: #8987A1;
+   padding-top: 20px;
+ }
+ .li-foot{
+   list-style: none;
+ }
+ .foot-p{
+   color: #8987A1;
+ }
+ .foot-link{
+   display: flex;
+   gap: 50px;
+   justify-content: center;
+   
+ }
