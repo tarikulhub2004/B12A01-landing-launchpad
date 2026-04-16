@@ -23,6 +23,9 @@
     border: none;    
 }
 
+.body-color{
+    background-color: #F5F8FF;
+}
 /* nav-1 */
 .header-bg{
     background: url('../Assets/Hero-bg.png');
@@ -90,4 +93,91 @@
  }
  .section-2-p{
     font-size: 20px;
+ }
+ /* section-3 */
+ .section-3{
+    
+    margin: 100px 149px;
+
+ }
+ .flex{
+   display: flex;
+   justify-content: space-between;
+ }
+.head-section-3{
+   text-align: center;
+}
+.box{
+   width: 366.67px;
+   height: 243px;
+   background-color: #FFFFFF;
+   padding: 24px;
+}
+.foot-3{
+   display: flex;
+   gap: 10px;
+}
+.avatar{
+   border-radius: 30px;
+}
+ /* section-4 */
+ .section-4{
+    margin: 10px 150px;
+    text-align: center;
+    background-color: #FFFFFF;
+    border-radius: 5px;
+    padding: 50px;
+ }
+ .section-4-h1{
+    font-weight: bold;
+    font-size: 50px;
+ }
+ .section-4-div{
+    margin: 30px;
+    border-radius: 48px;
+ }
+ .section-4-img{
+    border-radius: 48px;
+ }
+ /* section-5 */
+ .section-5{
+    margin: 50px 150px;
+    display: flex;
+    justify-content: space-between;
+ }
+ .section-5-h1{
+    font-weight: bold;
+    font-size: 97px;
+ }
+ .section-5-email, .section-5-name{
+    padding: 20px 271px 20px 32px;
+    display: block;
+    margin-top: 20px;
+    border-radius: 5px;
+    border: 1px;
+ }
+ .section-5-message{
+    padding: 20px 271px 85px 32px;
+    display: block;
+    margin-top: 20px;
+    border-radius: 5px;
+    border: 1px;
+ }
+ .btn-section-5{
+    padding: 19px 201px;
+    background-color: #4E47FF;
+    font-weight: bold;
+    font-size: 16px;
+    color: #FFFFFF;
+    border-radius: 10px;
+    border: none;    
+    margin-top: 20px;
+ }
+ .f-h6{
+    font-weight: 500;
+    font-size: 18px;
+ }
+ .section-5-div-1{
+    padding-top: 100px;
+    padding-bottom: 100px;
  }
